@@ -1,0 +1,29 @@
+body {
+    background-image: url(../img/backg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    min-width: auto; 
+    }
+    h1{
+        color:rgb(107, 46, 3) ;
+        font-size: 100px;
+    }
+    h3{
+        color: rgb(3, 124, 33);
+        font-size: 30px;
+    }
+    hr {
+
+        border-style: none;
+        border-top-style: dotted;
+        border-color: rgb(4, 175, 26);
+        border-width: 10px;
+        width: 5%;
+      }
+    .daging {
+        background-color: rgb(158, 116, 1);
+border-radius: 100px;
+    }
+    .brokoli{
+        background-color: rgb(241, 121, 8);
